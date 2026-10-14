@@ -32,3 +32,10 @@
 - **코너링 성능:** 선회 시 차체 기울어짐과 바퀴 움직임 제어
 
 > **핵심 정리:** 서스펜션은 노면 충격을 완화하면서 타이어의 접지 상태를 유지하도록 도와 승차감과 주행 안정성에 영향을 미치는 핵심 장치이다.
+<img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/d62ddfc7-a2ce-4c52-88be-34c81fdd1857" />
+
+*그림 1. 더블 위시본 서스펜션의 구조*
+
+출처: [RB30DE, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Double_wishbone_suspension.jpg)  
+라이선스: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
