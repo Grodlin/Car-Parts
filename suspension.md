@@ -81,4 +81,11 @@
 
 > **핵심 정리:** 스프링은 충격을 받으면 변형되면서 에너지를 저장하고, 댐퍼는 진동 에너지를 소산시켜 차체의 반복적인 흔들림을 줄인다.
 
+<img width="738" height="762" alt="image" src="https://github.com/user-attachments/assets/6dcebb27-2ee9-428e-a904-bc02d34984c3" />
+
+
+*그림 2. 코일 스프링과 댐퍼가 결합된 코일오버 구조*
+
+출처: https://egun.in/products/ola-s1-s1-pro-gen-1-rear-suspension-heavy-quality
+
 
