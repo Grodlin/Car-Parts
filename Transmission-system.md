@@ -9,7 +9,7 @@
 ## 1. 수동변속기(MT)의 구조
 
 ### 주요 구성 요소
-
+![수동변속기 사진](https://github.com/Grodlin/Car-Parts/blob/Transmission-system/Transmission-system/%EC%88%98%EB%8F%99%EB%B3%80%EC%86%8D%EA%B8%B0.jpg)
 - **클러치(Clutch)**: 엔진과 변속기 사이의 동력을 연결하거나 차단한다.
 - **입력축(Input Shaft)**: 엔진에서 발생한 동력을 전달받는다.
 - **중간축(Countershaft)**: 입력축의 동력을 기어를 통해 전달한다.
@@ -34,9 +34,7 @@
 ## 2. 자동변속기(AT)의 구조
 
 ### 주요 구성 요소
-
-일반적인 유압식 자동변속기는 토크컨버터, 유성기어장치, 다판 클러치, 브레이크, 유압 제어장치 및 전자제어장치 등으로 구성된다.
-
+![자동변속기 사진](https://github.com/Grodlin/Car-Parts/blob/Transmission-system/Transmission-system/%EC%9E%90%EB%8F%99%20%EB%B3%80%EC%86%8D%EA%B8%B0.jpg)
 - **토크컨버터(Torque Converter)**: 유체의 흐름을 이용하여 엔진의 동력을 변속기로 전달한다. 출발 시 엔진과 변속기 사이의 회전속도 차이를 허용하며, 특정 조건에서는 토크를 증폭한다.
 - **유성기어장치(Planetary Gear Set)**: 선기어, 유성기어, 캐리어 및 링기어로 구성되며, 각 요소의 작동 상태에 따라 다양한 기어비를 형성한다.
 - **다판 클러치(Multi-plate Clutch)**: 유성기어장치의 특정 회전 요소들을 연결하여 동력 전달 경로를 변경한다.
