@@ -208,6 +208,20 @@
 | **4. 냉각 장치** | 라디에이터, 워터 펌프 | 냉각수 순환을 통한 엔진 열용량 제어 및 과열 방지 |
 | **5. 흡배기/제어**| ECU, 촉매 변환기 | 최적의 엔진 제어(두뇌) 및 유해 배기가스 정화 |
 
-### 향후 작성 계획
-- 출처 표기 문단 추가 후 출처 표기
+---
+
+## 6. 참고 문헌 및 출처 
+
+본 문서의 모든 내용은 기계공학적 사실과 엄밀성을 유지하기 위해 다음의 공식 학술 서적을 핵심 근거로 작성되었습니다.
+
+* John B. Heywood, *Internal Combustion Engine Fundamentals* (2nd Edition), McGraw-Hill Education.
+* Robert Bosch GmbH, *Bosch Automotive Handbook* (10th Edition), Wiley.
+* Willard W. Pulkrabek, *Engineering Fundamentals of the Internal Combustion Engine* (2nd Edition), Pearson.
+* Richard Stone, *Introduction to Internal Combustion Engines* (4th Edition), Palgrave Macmillan.
+
+**이미지 출처**
+* 2장 (4행정 사이클 도식화): [Encyclopedia Britannica, *Four-stroke cycle*](https://www.britannica.com/technology/four-stroke-cycle)
+* 4장 (엔진 핵심 구성 부품 단면도): [Encyclopedia Britannica, *Gasoline engine - Camshaft*](https://www.britannica.com/technology/gasoline-engine/Camshaft)
+
+> 본 `enginesystem.md` 파일은 자동차 엔진의 복잡한 공학적 원리를 비전공자도 쉽게 이해할 수 있도록 구조화하고 기게공학적 사실에 근거해서 작성하며 문장을 다듬는 과정에서 **Google Gemini**의 도움을 받아 작성되었습니다.
 
