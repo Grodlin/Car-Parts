@@ -136,7 +136,7 @@
 
 > **핵심 정리:** 맥퍼슨 스트럿은 공간 활용성과 경제성이 장점이며, 더블 위시본은 서스펜션의 운동 특성을 정밀하게 설계할 수 있다는 장점이 있다.
 
-<img width="1007" height="480" alt="ChatGPT 이미지 2026년 10월 18일 오후 07_51_11" src="https://github.com/user-attachments/assets/aee04923-8e9d-433d-8c29-056e8f386a67" />
+<img width="1007" height="480" alt="맥퍼슨 스트럿, 더블 위시본, 멀티링크 서스펜션의 구조 비교" src="https://github.com/user-attachments/assets/aee04923-8e9d-433d-8c29-056e8f386a67" />
 
 *그림 3. 독립현가식 서스펜션의 구조 비교: (a) 맥퍼슨 스트럿, (b) 더블 위시본, (c) 멀티링크*
 
